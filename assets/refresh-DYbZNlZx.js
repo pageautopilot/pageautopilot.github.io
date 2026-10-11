@@ -1,0 +1,1 @@
+var e=e=>e*5;export{e as t};
