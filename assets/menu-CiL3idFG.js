@@ -1,0 +1,1 @@
+import{p as e}from"./index-a9Ts_X6E.js";var t=e(`menu`,[[`path`,{d:`M4 5h16`,key:`1tepv9`}],[`path`,{d:`M4 12h16`,key:`1lakjw`}],[`path`,{d:`M4 19h16`,key:`1djgab`}]]);export{t};
